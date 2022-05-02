@@ -1,0 +1,25 @@
+gasto('01/01/2022', 'Cimento Campeão CPII', 'Loja do Zé', 19, 'saco', 28, 532).
+gasto('11/01/2022', 'Fita isolante', 'Loja do Zé', 92, 'caixa', 22.30, 2051.6).
+gasto('13/03/2022', 'Oculos', 'Loja do Zé', 87, 'unidade', 27.80, 2418.6).
+gasto('02/05/2022', 'Cadeado', 'Loja do Zé', 51, 'unidade', 21.50, 1096.5).
+gasto('16/11/2022', 'Fechadura', 'Loja do Zé', 86, 'unidade', 23.10, 1986.6).
+gasto('02/01/2022', 'Bota', 'Loja do Zé', 70, 'par', 22.90, 1603).
+gasto('28/10/2022', 'Mascara', 'Loja do Zé', 12, 'caixa', 20.80, 249.6).
+gasto('13/07/2022', 'Luva', 'Loja do Zé', 15, 'par', 19.80, 297).
+gasto('28/02/2022', 'Corrente', 'Loja do Zé', 71, 'metro', 38.60, 2740.6).
+gasto('22/02/2022', 'Colete', 'Loja do Zé', 25, 'unidade', 29.80, 745).
+gasto('04/09/2022', 'Capacete', 'Loja do Zé', 89, 'unidade', 32.20, 2865.8).
+gasto('23/09/2022', 'Piso', 'Loja do Zé', 27, 'metro quadrado', 22.70, 612.9).
+gasto('20/01/2022', 'Fio', 'Loja do Zé', 85, 'metro', 18.30, 1555.5).
+gasto('15/11/2022', 'Lampada', 'Loja do Zé', 49, 'unidade', 8.80, 431.2).
+gasto('28/02/2022', 'Chuveiro', 'Loja do Zé', 40, 'unidade', 48.90, 1956).
+gasto('12/03/2022', 'Mangueira', 'Loja do Zé', 35, 'metro', 11.90, 416.5).
+gasto('13/07/2022', 'Bomba', 'Loja do Zé', 3, 'unidade', 33.90, 101.7).
+gasto('24/06/2022', 'Lona', 'Loja do Zé', 85, 'metro quadrado', 26.10, 2218.5).
+gasto('15/04/2022', 'Grampo', 'Loja do Zé', 16, 'caixa', 15.30, 244.8).
+gasto('16/09/2022', 'Arame', 'Loja do Zé', 85, 'metro', 39.70, 3374.5).
+gasto('11/07/2022', 'Prego', 'Loja do Zé', 240, 'caixa', 12.70, 3048).
+gasto('09/06/2022', 'Estopa', 'Loja do Zé', 72, 'caixa', 43.80, 3153.6).
+gasto('06/08/2022', 'Silicone', 'Loja do Zé', 26, 'unidade', 25.00, 650).
+gasto('07/10/2022', 'Cola', 'Loja do Zé', 45, 'unidade', 27.30, 1228.5).
+gasto('20/11/2022', 'Gesso', 'Loja do Zé', 30, 'saco', 19.80, 594).
